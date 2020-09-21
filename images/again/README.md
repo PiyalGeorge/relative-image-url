@@ -5,4 +5,4 @@ The following link is what's used below.
 
     ![Kiku](images/again/again2/Kiku.jpg)
 
-![Kiku](images/again/again2/Kiku.jpg)
+![Kiku](again2/Kiku.jpg)
